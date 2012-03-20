@@ -1,0 +1,32 @@
+Logfile initialized
+[INFO] logfile = /home/victor/Titanium Studio Workspace/slovencina-mobile/build.log
+[DEBUG] /home/victor/.titanium/mobilesdk/linux/1.8.2/android/builder.py simulator slovencina-mobile /home/victor/android-sdk-linux /home/victor/Titanium Studio Workspace/slovencina-mobile org.slovencina.mobile 1 WQVGA432 
+[INFO] Building slovencina-mobile for Android ... one moment
+[INFO] Titanium SDK version: 1.8.2 (02/23/12 17:46 59b3a90)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.007981 seconds on emulator to get ready
+[DEBUG] org.slovencina.mobile installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /home/victor/Titanium Studio Workspace/slovencina-mobile/Resources/app.js => /home/victor/Titanium Studio Workspace/slovencina-mobile/build/android/bin/assets/Resources/app.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /home/victor/Titanium Studio Workspace/slovencina-mobile/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /home/victor/Titanium Studio Workspace/slovencina-mobile/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /home/victor/Titanium Studio Workspace/slovencina-mobile/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /home/victor/Titanium Studio Workspace/slovencina-mobile/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /home/victor/Titanium Studio Workspace/slovencina-mobile/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /home/victor/Titanium Studio Workspace/slovencina-mobile/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /home/victor/Titanium Studio Workspace/slovencina-mobile/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /home/victor/Titanium Studio Workspace/slovencina-mobile/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-long-land-hdpi splash screen at /home/victor/Titanium Studio Workspace/slovencina-mobile/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /home/victor/Titanium Studio Workspace/slovencina-mobile/Resources/android/images/res-notlong-land-hdpi/default.png
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... slovencina-mobile
+[INFO] Launching application ... slovencina-mobile
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.slovencina.mobile/.SlovencinaMobileActivity }
+
+[INFO] Relaunched slovencina-mobile ... Application should be running.
+[INFO] Android Emulator has exited
